@@ -12,3 +12,5 @@ Editado el fichero de MSI.txt en el cual se imforma que MSI también puede llega
 
 Se hacen arreglos menores dentro del fichero README.md en el cual se añade el ".txt" a los ficheros
 y la extension ".md" al fichero README.md.
+
+Modificación final dentro del fichero MSI.txt para su posterior publicación ante el público.
